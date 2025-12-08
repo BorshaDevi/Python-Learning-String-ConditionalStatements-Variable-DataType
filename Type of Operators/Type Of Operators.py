@@ -19,25 +19,25 @@ Bitwise Operators = ( & ,l , ^)
 
 """
 
-# # Assignment Operators = ( = , -= , *= , /= , %= , //= , **=)
+# Assignment Operators = ( = , -= , *= , /= , %= , //= , **=)
 
-# num=10
-# # num=num + 10 this and this num +=10 ar same
+num=10
+# num=num + 10 this and this num +=10 ar same
 
-# num +=10
-# print(num)
-# """20"""
-# num -=5
-# print(num)
-# """5"""
-# num *=5
-# print(num)
+num +=10
+print(num)
+"""20"""
+num -=5
+print(num)
+"""5"""
+num *=5
+print(num)
 
-# num /=5
-# print(num)
+num /=5
+print(num)
 
-# num **=5
-# print(num)
+num **=5
+print(num)
 
 """Logical Operators"""
 # The logical operator not makes the opposite value. If the value is true, using not makes it false.
@@ -74,4 +74,7 @@ or1=65
 or2=54
 print('or operator', (or1>or2) or (or1==or2) )
 # true .Here or1>or2 this argument is true. that's why it returns true.
+
+
+
 
