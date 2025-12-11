@@ -5,7 +5,7 @@
 a=2.0
 b=2
 print(a+b)
-# 4.0
+# 4.0 this convert float type.
 
 # this is give error.Because in python str and int,float can not operate  (+,-) in Conversion.
 a='2'
