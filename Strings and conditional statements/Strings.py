@@ -61,3 +61,4 @@ print(text2[5])
 text1='value'
 text1[4]='@'
 print(text1)
+# they give you this : 'str' object does not support item assignment.
