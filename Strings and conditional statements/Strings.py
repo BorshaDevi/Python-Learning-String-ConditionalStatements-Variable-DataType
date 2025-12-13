@@ -16,6 +16,7 @@ name3="""Hello world"""
 
 
 # Escaped sequence character: 
+
 # \n=Generated newline
 # \t=tab
 # \r=it's removed from this before line.
@@ -33,7 +34,9 @@ print(text3)
 
 
 # length:
-# if we need to know any string length ,we can use the len function
+
+# if we need to know any string length ,we can use the len function.
+# Length  count , not only character but also " ",%,$ etc.
 text4='Borsha'
 text5='Devi'
 final_str_len=text4+" "+text5
@@ -43,3 +46,18 @@ name='Borsha Devi'
 print(len(name))
 # ans:11
 #  if we carefully see that there are 10 words.but print 11.why?Because when string length counts, there are count spaces also.
+
+
+# Indexing:
+
+# Indexing means,in string all characters have position number.
+# Index numbers start with 0 number. If any space or any special character ,there is also an index number.
+# Write this val[0,1 ….etc ] 
+text='Thank'
+print(text[4])
+text2='Thank you'
+print(text2[5])
+# Note: we don’t change character help with index numbers. 
+text1='value'
+text1[4]='@'
+print(text1)
