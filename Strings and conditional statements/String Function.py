@@ -6,6 +6,8 @@ print(str_.endswith('ram.'))
 # Because the value you gave is in the middle of the sentence.
 print(str_.endswith('College.'))
 # it is True.Because the value you gave is at the end of the sentence.
+str_1='I am ok'
+print("speceil value",str_1.endswith('am',0,4))   
 
 # 2.capitalize()
 # This funcation makes the first letter of a string capital.
@@ -20,3 +22,5 @@ print(str2.replace('happy','sad'))
 # I am sad now
 print(str2.replace('n','h'))
 # I am happy how
+
+

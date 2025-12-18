@@ -50,4 +50,9 @@ vari3="You know,It's very occoart"
 print(vari3[((len(vari3))-7):-1])
 print(vari3[-7:-1])
 
-
+var='This is my college.'
+endswith=var.endswith('ege.')
+print(endswith)
+var1="This is amazing day."
+endswith1=var1.endswith("amaging day.")
+print(endswith1)
