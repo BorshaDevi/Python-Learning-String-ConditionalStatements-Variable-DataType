@@ -1,31 +1,31 @@
-# # 1.endswith()
+# 1.endswith()
 
-# # This checks the ending of the string.
-# # You give a value, then it starts checking from the ending of the string.If it is found, it prints True; otherwise, it prints False.
-# str_="I am study from Chattogram College."
-# print(str_.endswith('ram.'))
-# # Because the value you gave is in the middle of the sentence.
-# print(str_.endswith('College.'))
-# # it is True.Because the value you gave is at the end of the sentence.
-# str_1='I am ok'
-# print("speceil value",str_1.endswith('am',0,4)) 
-# # True  
+# This checks the ending of the string.
+# You give a value, then it starts checking from the ending of the string.If it is found, it prints True; otherwise, it prints False.
+str_="I am study from Chattogram College."
+print(str_.endswith('ram.'))
+# Because the value you gave is in the middle of the sentence.
+print(str_.endswith('College.'))
+# it is True.Because the value you gave is at the end of the sentence.
+str_1='I am ok'
+print("speceil value",str_1.endswith('am',0,4)) 
+# True  
 
-# # 2.capitalize()
+# 2.capitalize()
 
-# # This funcation makes the first letter of a string capital.
-# str1="happy coding"
-# print(str1.capitalize())
-# # Happy coding
+# This funcation makes the first letter of a string capital.
+str1="happy coding"
+print(str1.capitalize())
+# Happy coding
 
-# # 3.replace()
+# 3.replace()
 
-# # This function replaces the old value to new value.
-# str2='I am happy now'
-# print(str2.replace('happy','sad'))
-# # I am sad now
-# print(str2.replace('n','h'))
-# # I am happy how
+# This function replaces the old value to new value.
+str2='I am happy now'
+print(str2.replace('happy','sad'))
+# I am sad now
+print(str2.replace('n','h'))
+# I am happy how
 
 # find()
 
@@ -44,3 +44,17 @@ print(va.find('for'))
 print (va.find('g'))
 # -1
 #  here are no g letter .that's why it's gives -1.
+
+
+# count()
+
+# This function count how many values are  in the string with a given value. We can give letter,word.
+va1="This was a wonderful sentence in this paragraph."
+print(va1.count('was'))
+# 1
+print(va1.count('a'))
+# 5
+print(va1.count("a",6,10))
+# 2  . It means,this count of number start 6 and end 10, In this range how many the value was.
+print(va1.count("e",15))
+# 4.It means,this count of number start 15.
