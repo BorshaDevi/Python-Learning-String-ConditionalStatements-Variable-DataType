@@ -1,92 +1,92 @@
-# # 1.Write a program to input 2 numbers & print their sum.
-# a=int(input('a :'))
-# b=int(input("b :"))
-# print(a+b)
+# 1.Write a program to input 2 numbers & print their sum.
+a=int(input('a :'))
+b=int(input("b :"))
+print(a+b)
 
-# # 2. Write a program to input side of a square and print its area.
-# area=float(input("area :"))
-# # square rule is side * side
-# ans=area*area
-# print(ans)
+# 2. Write a program to input side of a square and print its area.
+area=float(input("area :"))
+# square rule is side * side
+ans=area*area
+print(ans)
 
-# # 3. Write a program to input 2 floating point numbers and print their average.
-# p1=float(input("p1 :"))
-# p2=float(input('p2 :'))
-# average=(p1+p2)/2
-# print(average)
+# 3. Write a program to input 2 floating point numbers and print their average.
+p1=float(input("p1 :"))
+p2=float(input('p2 :'))
+average=(p1+p2)/2
+print(average)
 
-# # 4.Write a program to input 2 int numbers , a and b. print True if a is greater than or equal to b. if not print False.
-# A=int(input('A :'))
-# B=int(input('B :'))
-# val=True if A>=B else False
-# print(val)
-
-
-# vari='Thank you for your answer'
-# slicing=vari[0:len(vari)]
-# print(slicing,len(vari))
-
-# vari1='Today is a special day for me'
-# print(vari1[0:5])
-
-# vari2='I am use to this type of problem'
-# print(len(vari2))
-# print(vari2[(32-7):32])
-
-# vari3='This is awesome day'
-# print(vari3[7:])
-# # awesome day
-# print(vari3[:7])
-# # This is
-
-# vari='Today is a amazing day.'
-# print(vari[0:5])
-
-# vari2="I am very happy to share that I am going to Aboard"
-# print(vari2[:len(vari2)])
-# print(vari2[0:])
-
-# vari3="You know,It's very occoart"
-# print(vari3[((len(vari3))-7):-1])
-# print(vari3[-7:-1])
-
-# var='This is my college.'
-# endswith=var.endswith('ege.')
-# print(endswith)
-# var1="This is amazing day."
-# endswith1=var1.endswith("amaging day.")
-# print(endswith1)
+# 4.Write a program to input 2 int numbers , a and b. print True if a is greater than or equal to b. if not print False.
+A=int(input('A :'))
+B=int(input('B :'))
+val=True if A>=B else False
+print(val)
 
 
-# # 5.write a program to input user's first name & print it's length
-# name=input('name: ')
-# print(len(name))
+vari='Thank you for your answer'
+slicing=vari[0:len(vari)]
+print(slicing,len(vari))
 
-# # Write a program to find the occurrence of "$" in a String.
-# string='This is my 10 $ jacket and I sell them 5$ or 3$ or 2$'
-# print(string.count("$"))
+vari1='Today is a special day for me'
+print(vari1[0:5])
 
-# marks=82
-# if(marks>=90):
-#     print('A')
-# elif(90>marks>=80):
-#     print('B')
-# elif(80>marks>=70):
-#     print("C")
-# elif(70>marks):
-#     print('D')   
+vari2='I am use to this type of problem'
+print(len(vari2))
+print(vari2[(32-7):32])
+
+vari3='This is awesome day'
+print(vari3[7:])
+# awesome day
+print(vari3[:7])
+# This is
+
+vari='Today is a amazing day.'
+print(vari[0:5])
+
+vari2="I am very happy to share that I am going to Aboard"
+print(vari2[:len(vari2)])
+print(vari2[0:])
+
+vari3="You know,It's very occoart"
+print(vari3[((len(vari3))-7):-1])
+print(vari3[-7:-1])
+
+var='This is my college.'
+endswith=var.endswith('ege.')
+print(endswith)
+var1="This is amazing day."
+endswith1=var1.endswith("amaging day.")
+print(endswith1)
 
 
-# if(marks>=90):
-#     grade='A'
-# elif(marks<90 and marks>=80):
-#     grade='B'
-# elif(marks<80 and marks>=70):
-#    grade='C' 
-# else:
-#     grade='D' 
+# 5.write a program to input user's first name & print it's length
+name=input('name: ')
+print(len(name))
 
-# print('Student =>',grade)  
+# Write a program to find the occurrence of "$" in a String.
+string='This is my 10 $ jacket and I sell them 5$ or 3$ or 2$'
+print(string.count("$"))
+
+marks=82
+if(marks>=90):
+    print('A')
+elif(90>marks>=80):
+    print('B')
+elif(80>marks>=70):
+    print("C")
+elif(70>marks):
+    print('D')   
+
+
+if(marks>=90):
+    grade='A'
+elif(marks<90 and marks>=80):
+    grade='B'
+elif(marks<80 and marks>=70):
+   grade='C' 
+else:
+    grade='D' 
+
+print('Student =>',grade)  
 
 marks=int(input('marks: '))
 
@@ -99,4 +99,56 @@ elif(marks<80 and marks>=70):
 else:
     grade='D' 
 
-print('Student =>',grade)                     
+print('Student =>',grade)   
+
+
+#6. Write a program to check if a number entered by the user is odd or even.
+number=int(input("number: "))
+if(number%2==0):
+    print('even')
+else:
+    print('odd')    
+
+
+# 7.Write a program to find the greatest of 3 numbers entered by the user.
+
+a=int(input("value a: "))
+b=int(input("value b: "))
+c=int(input("value c: "))
+if(a>b and a>c):
+    larger=a
+elif(b>a and b>c):
+    larger=b
+elif(c>a and c>b):
+    larger=c
+print('grestest value is =',larger)
+
+if(a>=b and a>=c):
+    large=a
+elif(b>=c):
+    large=b
+else:
+    large=c
+print('Largest value is ',large)   
+
+a=int(input("value a: "))
+b=int(input("value b: "))
+c=int(input("value c: "))
+d=int(input("value d: "))
+if(a>=b and a>=c and a>=d):
+    large=a
+elif(b>=c and b>=c and b>=d):
+    large=b
+elif(c>=d):
+    large=c
+else:
+    large=d
+print('largest number is',large)                
+
+# 8.Write a program to check if a number is a multiple of 7 or not.
+num1=int(input())
+if(num1%7==0):
+    print('7 is multiple number')
+else:
+    print('7 is not multiple number')    
+
