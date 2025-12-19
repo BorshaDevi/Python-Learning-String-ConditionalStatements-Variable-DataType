@@ -29,9 +29,9 @@ print(str2.replace('n','h'))
 
 # find()
 
-# This function find the position number of a string with a given value.
+# This function find the position index number of a string with a given value.
 # And this is only the given first value number,it means if you give a value 
-# and this value is more in this variable ,but it gives you the first value position number.
+# and this value is more in this variable ,but it gives you the first value position index number.
 # The method should be used only if you need to know the position of value.
 # And if the don’t find the value you gave, it’s return -1.
 
