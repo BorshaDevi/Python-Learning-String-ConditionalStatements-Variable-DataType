@@ -58,10 +58,45 @@
 # print(endswith1)
 
 
-# 5.write a program to input user's first name & print it's length
-name=input('name: ')
-print(len(name))
+# # 5.write a program to input user's first name & print it's length
+# name=input('name: ')
+# print(len(name))
 
-# Write a program to find the occurrence of "$" in a String.
-string='This is my 10 $ jacket and I sell them 5$ or 3$ or 2$'
-print(string.count("$"))
+# # Write a program to find the occurrence of "$" in a String.
+# string='This is my 10 $ jacket and I sell them 5$ or 3$ or 2$'
+# print(string.count("$"))
+
+# marks=82
+# if(marks>=90):
+#     print('A')
+# elif(90>marks>=80):
+#     print('B')
+# elif(80>marks>=70):
+#     print("C")
+# elif(70>marks):
+#     print('D')   
+
+
+# if(marks>=90):
+#     grade='A'
+# elif(marks<90 and marks>=80):
+#     grade='B'
+# elif(marks<80 and marks>=70):
+#    grade='C' 
+# else:
+#     grade='D' 
+
+# print('Student =>',grade)  
+
+marks=int(input('marks: '))
+
+if(marks>=90):
+    grade='A'
+elif(marks<90 and marks>=80):
+    grade='B'
+elif(marks<80 and marks>=70):
+   grade='C' 
+else:
+    grade='D' 
+
+print('Student =>',grade)                     
