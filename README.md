@@ -1,1 +1,1 @@
-<h1>Learning Python(series 1)</h1><span>🐍</span>
+<p class='text-xl">Learning Python(series 1)</p><span>🐍</span>
