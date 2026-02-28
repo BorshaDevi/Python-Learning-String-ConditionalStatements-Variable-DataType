@@ -1,1 +1,2 @@
-<h1>Learning Python(series 1) 🐍</h1>
+<h1>Journey of Learning Python(series 1) 🐍</h1>
+<br></br>
