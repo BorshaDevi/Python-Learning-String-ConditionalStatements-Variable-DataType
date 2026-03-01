@@ -9,5 +9,6 @@
 <li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/practice'>Practice</a></li>  
 </ul>
 <h1>🌩️About</h1>
-<h1>Projects</h1>
+<h1>◀️Projects</h1>
 <p>Project is coming soon.....:!:</p>
+<h1>📖Resources</h1>
