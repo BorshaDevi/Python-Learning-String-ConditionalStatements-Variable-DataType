@@ -4,4 +4,7 @@
 <ul>
 <li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/Strings%20and%20conditional%20statements'>Strings and Conditional Statements</a></li>
 <li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/Type%20of%20Operators'>Type of Operators</a></li>
+<li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/keywords'>Keywords</a></li>  
+<li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/variable%20and%20data%20type'>Variable and Data type</a></li>  
+<li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/practice'>Practice</a></li>  
 </ul>
