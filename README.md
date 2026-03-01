@@ -10,4 +10,4 @@
 </ul>
 <h1>🌩️About</h1>
 <h1>Projects</h1>
-<p>project is coming soon.....</p>
+<p>Project is coming soon.....:!:</p>
