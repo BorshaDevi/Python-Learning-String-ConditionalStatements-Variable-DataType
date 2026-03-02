@@ -15,3 +15,4 @@
 <h2>Online Course</h2>
 <a href='https://youtu.be/ERCMXc8x7mc?si=luXPI1caIqD2hl52'>Python Tutorial for Beginners</a>
 <h2>Website</h2>
+<a href='https://www.python.org/doc/'>Python Documentation</a>
