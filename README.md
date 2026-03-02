@@ -19,7 +19,7 @@
 <h1>🚀PDF File for Interview Practice</h1>
 <p>This document helps beginners understand fundamental Python concepts with clear explanations and practical code examples.  
 It shows how variables are declared, how different data types work, how strings are manipulated, and how conditional statements control program flow. </p>
-<h6>:bulb:What You Will Learn</h6>
+<h6><b>:bulb:What You Will Learn</b></h6>
 <ul>
   <li>How to create and use variables.</li>
   <li>Difference between int, float, string, and boolean.</li>
@@ -29,4 +29,5 @@ It shows how variables are declared, how different data types work, how strings 
 <b><a href='https://drive.google.com/file/d/1f-LecfUfRYLcD_AIFQ6EC97JSp0NrVTf/view?usp=sharing'>PDF File</a></b>
 <hr></hr>
 <p>Building Dreams With Code.</p>
+---------------------------------
 <p>Happy coding journey...😊</p>
