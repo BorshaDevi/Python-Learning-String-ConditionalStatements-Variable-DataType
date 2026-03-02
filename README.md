@@ -16,7 +16,7 @@
 <a href='https://youtu.be/ERCMXc8x7mc?si=luXPI1caIqD2hl52'>Python Tutorial for Beginners</a>
 <h2>Website</h2>
 <a href='https://www.python.org/doc/'>Python Documentation</a>
-<h1>🚀ket:PDF File for Interview Practice</h1>
+<h1>🚀PDF File for Interview Practice</h1>
 <p>This document helps beginners understand fundamental Python concepts with clear explanations and practical code examples.  
 It shows how variables are declared, how different data types work, how strings are manipulated, and how conditional statements control program flow. </p>
 <h6>:bulb:What You Will Learn</h6>
