@@ -26,7 +26,7 @@ It shows how variables are declared, how different data types work, how strings 
   <li>How to use if-else conditions.</li>
   <li>Basic real-world coding examples.</li>
 </ul>
-<a href='https://drive.google.com/file/d/1f-LecfUfRYLcD_AIFQ6EC97JSp0NrVTf/view?usp=sharing'>PDF File</a>
+<b><a href='https://drive.google.com/file/d/1f-LecfUfRYLcD_AIFQ6EC97JSp0NrVTf/view?usp=sharing'>PDF File</a></b>
 <hr></hr>
 <p>Building Dreams With Code.</p>
 <p>Happy coding journey...😊</p>
