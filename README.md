@@ -17,5 +17,14 @@
 <h2>Website</h2>
 <a href='https://www.python.org/doc/'>Python Documentation</a>
 <h1>PDF File for Interview Practice</h1>
+<p>This document helps beginners understand fundamental Python concepts with clear explanations and practical code examples.  
+It shows how variables are declared, how different data types work, how strings are manipulated, and how conditional statements control program flow. </p>
+<h6>💡 What You Will Learn</h6>
+<ul>
+  <li>How to create and use variables</li>
+  <li>Difference between int, float, string, and boolean</li>
+  <li>How to use if-else conditions</li>
+  <li>Basic real-world coding examples</li>
+</ul>
 <a href='https://drive.google.com/file/d/1f-LecfUfRYLcD_AIFQ6EC97JSp0NrVTf/view?usp=sharing'>PDF File</a>
 
