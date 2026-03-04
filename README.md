@@ -9,6 +9,10 @@
 <li><a href='https://github.com/BorshaDevi/Python-Learning-String-ConditionalStatements-Variable-DataType/tree/main/practice'>Practice</a></li>  
 </ul>
 <h1>🌩️About</h1>
+<p>
+This is beginner-friendly Python practice repository covering strings, variables, data types, and conditional statements. 
+Includes simple examples and exercises to build a strong programming foundation.
+</p>
 <h1>📌Projects</h1>
 <p>Project is coming soon.....:!:</p>
 <h1>📖Resources</h1>
