@@ -14,7 +14,7 @@ This is beginner-friendly Python practice repository covering strings, variables
 Includes simple examples and exercises to build a strong programming foundation.
 </p>
 <h1>📌Projects</h1>
-<h3>Mad Libs Story Generator</h3>
+<h3>Project 1:Mad Libs Story Generator</h3>
 <h5>Description:</h5>
 <p>A beginner-friendly Python mini project that generates fun stories based on user input. The program asks the user to enter words such as name, place, verb, animal, food, and emotion, then creates a unique story using those inputs.</p>
 
